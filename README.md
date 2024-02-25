@@ -1,4 +1,5 @@
 # Social_Media_Application
+Social Media Application (frontend) is created using Node.js, html, css, javascript
 
 <img width="960" alt="login" src="https://github.com/sutharshana-s-s/Social_Media_Application/assets/151900302/4c6b504d-c3b9-40a4-b8ed-5a2bd0a6759b">
 <img width="960" alt="Register" src="https://github.com/sutharshana-s-s/Social_Media_Application/assets/151900302/805e93f3-2a40-4613-8351-922352a658d6">
